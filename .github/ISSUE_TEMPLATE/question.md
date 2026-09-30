@@ -1,5 +1,5 @@
 ---
-name: 질문
+name: CS 질문 등록
 about: 순서표의 상대에게 질문 1개를 남깁니다
 title: "[PART 0X] 질문을 한 줄로 적어주세요"
 labels: ""
