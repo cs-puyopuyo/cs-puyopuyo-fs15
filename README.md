@@ -21,10 +21,10 @@ CS 뿌요뿌요는 **질문으로 CS 개념의 전체 그림을 잡는** 스터�
 
 | 이름 | GitHub |
 | --- | --- |
-| 박수환 | [@Suhwan-P]|
-| 김다찬 | [@emmet-lv99]|
-| 김수지 | [@cloud2-k]|
-| 황규리 | [@HwangGyuri]|
+| 박수환 | [@Suhwan-P](https://github.com/Suhwan-P) |
+| 김다찬 | [@emmet-lv99](https://github.com/emmet-lv99) |
+| 김수지 | [@cloud2-k](https://github.com/cloud2-k) |
+| 황규리 | [@HwangGyuri](https://github.com/HwangGyuri) |
 
 <br>
 
@@ -143,10 +143,10 @@ cs-puyopuyo/
 │   ├── 01_1006.md
 │   └── 02_1012.md
 └── notes/              # 개인 노트 (선택)
-    ├── 박수환/
-    ├── 김다찬/
-    ├── 김수지/
-    └── 황규리/
+    ├── Suhwan-P/
+    ├── emmet-lv99/
+    ├── cloud2-k/
+    └── HwangGyuri/
 ```
 
 <br>
@@ -155,4 +155,4 @@ cs-puyopuyo/
 
 - 가볍게, 하지만 꾸준히 합니다.
 - 참여가 어려운 주에는 미리 디스코드에 알려주세요.
-- 회의록이 남기 때문에, 못 온 날도 내용을 따라잡을 수 있습니다.
+- 회의록이 남기기 때문에, 못 온 날도 내용을 따라잡을 수 있습니다.
